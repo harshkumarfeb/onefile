@@ -1,1 +1,1 @@
-prin("Hello, This is python file updated2")
+print("Hello, This is python file updated2")
